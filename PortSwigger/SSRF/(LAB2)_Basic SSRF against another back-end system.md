@@ -59,7 +59,7 @@ stockApi=http://192.168.0.§x§:8080/admin
 - notice that x is between two of § character, as it's parameter of the brute force
 - to choose the values of it we will go to `payloads` tab
 - change payload type to `numbers` and make it ranges from 0 to 255 with step 1
-- start the attack and wait until you see a request with status 302
+- start the attack and wait until you see a request with status 200
 - when you find it this means that this is the suitable ip
 - back to the repeater and use it with changing the value of the stockApi to: `/admin/delete?username=carlos`
 - carlos is deleted
