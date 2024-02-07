@@ -25,13 +25,13 @@ flag{dd-mm-yyyy_hh:mm}
 - First start by openning the link attached with the challange
 - we find this
 
-<img src=./images/capture.png>
+<img src=./images/capture.PNG>
 
 - There a link for a tweet let's try to access this link
 - This bit.ly link forwards me to a post in X (Twitter) but the post cann't be viewed
 - anyway we can make use of bit.ly by appending `+` to the url this will move us to this site
 
-<img src=./images/capture1.png>
+<img src=./images/capture1.PNG>
 
 - There's a date right there and this's the flag
 - congratzzzzzzzzzzzzzzz
